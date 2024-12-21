@@ -3,6 +3,15 @@
     "name": "🏆 EVENTOS EN VIVO DISPONIBLES ÚNICAMENTE CUANDO HAY EVENTOS ACTIVOS TV ONLINE ORIGINAL",
     "samples": [
       {
+        "name": "EVENTOS FLOW MUSIC",
+        "icono": "https://i.ibb.co/jhrG266/flow-music.png",
+        "uri": "PieKW3Tj9RSHDO1/43uuAuJBqLU4R7uk3zC/JZT7ZPQacm2F8/OMmMUWLdZ2UNa+XKUBnx8mrjMR89Z8tXUBvJdC1WrZGugilcKONnfYB7b5hhLcxJUyMeF6ZnZloqYY",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yRYEjIJlCbvetHKRrpAsocVw8BQ8lkq3JjuQV3bxBQGZLekf3JHw143TNXfihMebPwmLaEtfd4DvPnBMtGWF2TE3i+DGJRMApjijj2yqq22zP4syiekztzr+/lrTtTjXtQ==",
+        "origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
         "name": "LIGA URUGUAY OPC 2",
         "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png",
         "uri": "01kIDh81dkNZDSiIZTV7dFJ72F1KOA6uMejAhoNiX+6FjgUFb3B0lLFhG4A4zJmg",
@@ -57,6 +66,15 @@
   {
     "name": "🇦🇷ARGENTINA",
     "samples": [
+      {
+        "name": "EVENTOS FLOW MUSIC",
+        "icono": "https://i.ibb.co/jhrG266/flow-music.png",
+        "uri": "PieKW3Tj9RSHDO1/43uuAuJBqLU4R7uk3zC/JZT7ZPQacm2F8/OMmMUWLdZ2UNa+XKUBnx8mrjMR89Z8tXUBvJdC1WrZGugilcKONnfYB7b5hhLcxJUyMeF6ZnZloqYY",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yRYEjIJlCbvetHKRrpAsocVw8BQ8lkq3JjuQV3bxBQGZLekf3JHw143TNXfihMebPwmLaEtfd4DvPnBMtGWF2TE3i+DGJRMApjijj2yqq22zP4syiekztzr+/lrTtTjXtQ==",
+        "origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
       {
         "name": "GH",
         "icono": "https://media.telebajocero.com/p/8ca46d77b015140bb36d7daf7607cbe7/adjuntos/225/imagenes/000/936/0000936200/412x232/smart/gran-hermano-2024jpg.jpg",
